@@ -1,4 +1,4 @@
 # First
 This is my first Git Repo.
 <br>
-Author- Ayush Gandhi
+Author- Ayush Gandhi (Akhila LABS)
